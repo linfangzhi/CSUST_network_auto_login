@@ -19,5 +19,8 @@
 * 因为本人技术有限，暂时先放出windows版本
 # 欢迎传播23333
 # 下载地址
-[点我点我点我](https://github.com/linfangzhi/CSUST_network_auto_login/releases/download/1.0/Auto_login.exe)
+* 地址一：[点我点我点我](https://github.com/linfangzhi/CSUST_network_auto_login/releases/download/1.0/Auto_login.exe)
+* 地址二：[百度云](https://pan.baidu.com/s/17iOfHhT0WszBBfXBEdK7Gw)提取码: y834
+* 
+
 
