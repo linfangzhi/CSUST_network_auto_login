@@ -47,7 +47,7 @@ def login():
         time.sleep(1)
         print('开始尝试登陆~~~')
         time.sleep(2)
-        account_in = account_info[random.randint(1, 458)]
+        account_in = account_info[0]
         post_url = 'http://192.168.7.221:801/eportal/?c=ACSetting&a=Login&protocol=http:&hostname=192.168.7.221&iTermType=1&wlanuserip={wlanuserip}&wlanacip={wlanacip}&wlanacname={wlanacname}&mac={wlanusermac}&ip={wlanuserip}&enAdvert=0&queryACIP=0&loginMethod=1'.format(
             wlanusermac=wlanusermac, wlanacip=wlanacip, wlanacname=wlanacname, wlanuserip=wlanuserip)
         account = account_in[0]
