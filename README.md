@@ -9,6 +9,7 @@
 * 连接上网络之后自动跳转到百度
 # 附录
 程序后面有我微信二维码，嘻嘻嘻
+# 欢迎传播23333
 # 下载地址
 [点我点我点我](https://github.com/linfangzhi/CSUST_network_auto_login/releases/download/1.0/Auto_login.exe)
 
