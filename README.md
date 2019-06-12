@@ -15,12 +15,13 @@
 * 等待
 * 连接上网络之后自动跳转到百度
 # 附录
+* [项目地址](https://github.com/linfangzhi/CSUST_network_auto_login/)
 * 程序后面有我微信二维码，嘻嘻嘻
 * 因为本人技术有限，暂时先放出windows版本
 # 欢迎传播23333
 # 下载地址
 * 地址一：[点我点我点我](https://github.com/linfangzhi/CSUST_network_auto_login/releases/download/1.0/Auto_login.exe)
 * 地址二：[百度云](https://pan.baidu.com/s/17iOfHhT0WszBBfXBEdK7Gw)提取码: y834
-* 
 
 
+[![VRVc6K.md.jpg](https://s2.ax1x.com/2019/06/12/VRVc6K.md.jpg)](https://imgchr.com/i/VRVc6K)
