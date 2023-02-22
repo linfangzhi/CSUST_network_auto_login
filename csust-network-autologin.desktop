@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=0.1.0
+Name=CSUST Network Autologin
+Comment=CSUST Network login script
+Exec="/path/to/login.py"
+StartupNotify=false
+Terminal=false
