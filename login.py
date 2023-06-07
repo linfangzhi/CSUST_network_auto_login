@@ -4,9 +4,9 @@ import requests
 import re
 import time
 import os
-from colorama import init
-
-init(autoreset=True)
+# from colorama import init
+#
+# init(autoreset=True)
 
 account_info = ['your_account', 'your_password']
 
@@ -17,7 +17,7 @@ def load_account_info():
         account_info[0] = fd.readline().rstrip()
         account_info[1] = fd.readline().rstrip()
 
-    print(account_info)
+    print('Account:', account_info[0])
 
 def login():
     url = 'http://1.1.1.1'
